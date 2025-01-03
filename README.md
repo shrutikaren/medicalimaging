@@ -4,3 +4,6 @@ The curriculum for the following repository is as follows:
 - Deep Learning Overview: Numpy, Machine Learning concepts, Pytorch Basics, Convolutional Neural Networks 
 - Deep Learning Projects: Cardiac Detection, Atrium Segmentation, Lung Tumor Segmentation, 3D Liver Segmentation 
 
+In this repository, I have opened several files which I will explain here. 
+- Numpy.ipynb: Basic methods walkthrough in Numpy(beginner level)
+- Numpy2.ipynb: Basic methods walkthrough in Numpy Part II (beginner level)
