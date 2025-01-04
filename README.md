@@ -9,3 +9,6 @@ In this repository, I have opened several files which I will explain here.
 - Numpy2.ipynb: Basic methods walkthrough in Numpy Part II (beginner level)
 - Numpy3.ipynb: Basic methods walkthrough in Numpy Part III (intermediate level)
 - Numpy4.ipynb: Basic methods walkthrough in Numpy Part IV (intermediate level)
+- Pytorch.ipynb: Methods walkthrough in Pytorch Part I (beginner level)
+- Pytorch2.ipynb: Methods walkthrough in Pytorch Part II (beginner level)
+- Pytorch3.ipynb: Methods walkthrough in Pytorch Part III (intermediate level)
